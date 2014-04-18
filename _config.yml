@@ -1,5 +1,0 @@
-safe: true
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
-baseurl: "http://lhenault.github.io/blog"
